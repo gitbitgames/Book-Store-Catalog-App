@@ -10,6 +10,3 @@ The user is able to:
 - Close the app
 
 Updating an entry requires that you select the record and then update the new information, and then click the "update" button.
-
-
-You can also run the program via the executable provided.
